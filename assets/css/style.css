@@ -1,0 +1,43 @@
+#title {
+    font-family: 'Reem Kufi', sans-serif;
+    text-align: center;
+    font-size: 3em;
+    border-bottom: double;
+}
+#whereTheGifsGo {
+    float: right;
+}
+#whereTheButtonsGo {
+    position: relative;
+    left: 44%;    
+}
+#allInside {
+    display: none;
+}
+#starter {
+    text-align: center;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 5em;
+    border: 1px white;
+}
+#startBeing {
+    border-radius: 29%;
+    font-size: 1em;
+    box-shadow: 3px 3px;
+}
+#input-form {
+    position: fixed;
+    top: 26%;
+    right: 64%;
+}
+#add-state {
+    right: 60%;
+    position: fixed;
+    top: 31%;
+}
+body {
+    background-image: url("/images/flowers.png");
+}
+top {
+    background-color: whitesmoke;
+}

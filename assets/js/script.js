@@ -122,7 +122,7 @@ function thirtyTwoSeconds() {
         event.preventDefault();
         var newState = $("#state-input").val().trim();
         userState.push(newState);
-
+$("#state-input").val("");
         makeThemButtons();
     })
 

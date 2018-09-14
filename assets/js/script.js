@@ -1,15 +1,5 @@
 $(document).ready()
-// alert("Before we begin...");
-// alert("I want you to breathe.");
-// alert("Inhale...." + inhale);
-// alert("and hold..." + hold);
-// alert("exhale..." + exhale);
-// setInterval(function() {
-// inhale--;
-// hold--;
-// exhale--;
-// }, 1000);
-// clearInterval(intervalId)--;
+
 
 // function starter() {
 var inhale = 4;

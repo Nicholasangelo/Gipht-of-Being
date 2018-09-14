@@ -32,6 +32,8 @@ body {
     position: fixed;
     top: 26%;
     right: 64%;
+    font-family: 'Reem Kufi', sans-serif;
+
 }
 #add-state {
     right: 60%;
@@ -40,4 +42,11 @@ body {
 }
 #top {
     background-color: whitesmoke;
+}
+#explanation {
+    position: absolute;
+    top: 47%;
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 2em;
+
 }

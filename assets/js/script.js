@@ -76,7 +76,7 @@ function thirtyTwoSeconds() {
         //GRAB ASSIGNED DATA_STATE FROM BUTTON CLICKED
         var state = $(this).attr("data-state");
         //RUN IT THROUGH THE GIPHY API && CALL ON AJAX TO DO ITS THNG
-        var queryURL = "http://api.giphy.com/v1/gifs/search?limit=10&q=" + state + "&api_key=dOVm5a9T7kXu2CSpPOBZgDsAJRaCa22a";
+        var queryURL = "https://api.giphy.com/v1/gifs/search?limit=10&q=" + state + "&api_key=dOVm5a9T7kXu2CSpPOBZgDsAJRaCa22a";
 
         $.ajax({
             url: queryURL,
